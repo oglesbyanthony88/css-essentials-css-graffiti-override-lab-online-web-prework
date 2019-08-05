@@ -1,1 +1,22 @@
 /* write your override styles here */
+div#wall #tag-4 {
+  background: url(../images/tag-4.png) repeat;
+  z-index: 6;
+  display: block;
+}
+
+#wall .tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 500px;
+}
+
+div#wall #tag-3.slick wicked {
+  background: url(../images/tag-3.png) no-repeat;
+  z-index: 7;
+  display: block;
+  width: 200px;
+  height: 300px;
+}
