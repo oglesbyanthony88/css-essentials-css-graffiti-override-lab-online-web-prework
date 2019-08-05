@@ -1,3 +1,6 @@
 /* write your override styles here */
-
+body #wall .tag-1 {
+background-color: black;
+background-size: 1000px;
+}
 
