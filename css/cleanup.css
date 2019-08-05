@@ -1,10 +1,17 @@
 /* write your override styles here */
 
 body #tag-1 {
-  display: none;
-  background-color: Orange;
-  border-top-color: blue;
-  font-family: Arial;
-  font-size: 14px;
+display: none;
 }
 
+body #tag-2 {
+  display: none;
+}
+
+body #tag-3 {
+  display: none;
+}
+
+body #tag-4 {
+  display: none;
+}
