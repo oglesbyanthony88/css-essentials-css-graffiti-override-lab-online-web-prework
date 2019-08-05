@@ -1,9 +1,17 @@
 /* write your override styles here */
 #wall .tag-1 {
   display: none;
+  background-color: blue;
+  font-size: 26px;
+  font-weight: bold;
+  font-style: italic;
 }
 
 body #wall {
   display: none;
+  background-color: Orange;
+  border-top-color: blue;
+  font-family: Arial;
+  font-size: 14px;
 }
 
