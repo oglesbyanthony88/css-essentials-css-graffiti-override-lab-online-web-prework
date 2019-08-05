@@ -1,17 +1,6 @@
 /* write your override styles here */
-body #wall .tag-1 {
-background-color: black;
-background-size: 1000px;
-}
-
-body #wall .tag-2 {
-  background-color: white;
-}
-
-body #wall .tag-3 {
-  background-color: blue;
-}
-
-body #wall {
-  background: none;
+div #wall #tag-4 {
+  background: url(../images/tag-4.png) repeat;
+  z-index: 6;
+  display: block;
 }
