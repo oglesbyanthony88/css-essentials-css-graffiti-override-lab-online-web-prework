@@ -1,6 +1,6 @@
 /* write your override styles here */
 
-body #wall {
+body #tag-1 {
   display: none;
   background-color: Orange;
   border-top-color: blue;
