@@ -13,8 +13,10 @@ div#wall #tag-4 {
   height: 500px;
 }
 
-div#wall #tag-3.slick {
+div#wall #tag-3.slick wicked {
   background: url(../images/tag-3.png) no-repeat;
-  z-index: 5;
+  z-index: 7;
   display: block;
+  width: 200px;
+  height: 300px;
 }
