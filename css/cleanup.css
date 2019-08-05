@@ -1,5 +1,5 @@
 /* write your override styles here */
-div #wall #tag-4 {
+div#wall #tag-4 {
   background: url(../images/tag-4.png) repeat;
   z-index: 6;
   display: block;
