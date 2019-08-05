@@ -11,3 +11,7 @@ body #wall .tag-2 {
 body #wall .tag-3 {
   background-color: blue;
 }
+
+body #wall {
+  background: none;
+}
