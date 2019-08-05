@@ -4,3 +4,10 @@ background-color: black;
 background-size: 1000px;
 }
 
+body #wall .tag-2 {
+  background-color: white;
+}
+
+body #wall .tag-3 {
+  background-color: blue;
+}
